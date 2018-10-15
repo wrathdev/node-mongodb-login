@@ -1,0 +1,4 @@
+{
+  "connectionString": "mongodb://localhost/user_management",
+  "secret": "SECRETKEY-asd27i3654fibr2i3578bn8ohu865o"
+}
